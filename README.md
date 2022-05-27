@@ -5,11 +5,11 @@
 <br/>
 
 <p>
-Im 22 years old second year Univeristy student  Bcs Information Technology specilaty in web application devlopment and  A Full MERN Stack  Developer 🚀  graduated from <a href="https://epicode.com/">EPICCODE </a> coding bootcamp 
+I am a 22-year-old second-year university student pursuing a bachelor's degree in information technology with a specialization in web application development, as well as a Full MERN Stack Developer🚀, graduated from <a href="https://epicode.com/">EPICCODE </a> coding bootcamp 
   <hr/>
 <br/>
 <br/>
-<br/>
+
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
@@ -61,5 +61,13 @@ Im 22 years old second year Univeristy student  Bcs Information Technology speci
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+
+<a href="https://github.com/yonatanski">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yonatanski&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonatanski&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
 
 
