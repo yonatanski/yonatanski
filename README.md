@@ -19,14 +19,20 @@ Im 22 years old second year Univeristy student  Bcs Information Technology speci
 <div>
   
 <a href="mailto:yonatanderibe6@gmail.com">
- <img src="https://img.shields.io/badge/-red?style=for-the-badge&logo=google"/>
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=google"/>
+</a>
+  
+ <a href="https://www.linkedin.com/in/yonathanski/">
+   <img src="https://img.shields.io/badge/Linkedin-informational?style=for-the-badge&logo=linkedin"/>
+ </a>
+  
+ <a href="https://www.instagram.com/yonathanski/">
+  <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram"/>
   </a>
- 
- <img src="https://img.shields.io/badge/Linkedin-rajib jonchhen-informational?style=for-the-badge&logo=linkedin"/>
- 
- <img src="https://img.shields.io/badge/Instagram-    rajijon   -purple?style=for-the-badge&logo=instagram"/>
- 
- <img src="https://img.shields.io/badge/Twitter-     a1rajib    -blue?style=for-the-badge&logo=twitter"/>
+  
+  <a href="https://twitter.com/yonatan_gosaye">
+ <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter"/>
+  </a>
  
  </div>
   
