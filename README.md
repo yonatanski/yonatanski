@@ -13,6 +13,22 @@ Im 22 years old second year Univeristy student  Bcs Information Technology speci
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
+
+<h3>📫 How to reach me:</h3>
+<hr />
+<div>
+  
+ <a href="mailto:yonatanderibe6@gmail>
+ <img src="https://img.shields.io/badge/-red?style=for-the-badge&logo=google"/>
+  </a>
+ 
+ <img src="https://img.shields.io/badge/Linkedin-rajib jonchhen-informational?style=for-the-badge&logo=linkedin"/>
+ 
+ <img src="https://img.shields.io/badge/Instagram-    rajijon   -purple?style=for-the-badge&logo=instagram"/>
+ 
+ <img src="https://img.shields.io/badge/Twitter-     a1rajib    -blue?style=for-the-badge&logo=twitter"/>
+ 
+ </div>
   
 
 ### 🛠️ Languages and Tools:
