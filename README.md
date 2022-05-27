@@ -60,7 +60,7 @@ I am a 22-year-old second-year university student pursuing a bachelor's degree i
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+
 
 <a href="https://github.com/yonatanski">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yonatanski&theme=buefy&show_icons=true" />
