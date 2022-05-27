@@ -18,7 +18,7 @@ Im 22 years old second year Univeristy student  Bcs Information Technology speci
 <hr />
 <div>
   
- <a href="mailto:yonatanderibe6@gmail>
+<a href="mailto:yonatanderibe6@gmail.com">
  <img src="https://img.shields.io/badge/-red?style=for-the-badge&logo=google"/>
   </a>
  
