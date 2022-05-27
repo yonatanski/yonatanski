@@ -5,7 +5,7 @@
 <br/>
 
 <p>
-Im 22 years old second year Univeristy student  Bcs Information Technology specilaty in web application devlopment and  A Full MERN Stack  Developer 🚀  graduated from <a href="[https://github.com/anuraghazra/github-readme-stats](https://epicode.com/)">EPICCODE </a> coding bootcamp 
+Im 22 years old second year Univeristy student  Bcs Information Technology specilaty in web application devlopment and  A Full MERN Stack  Developer 🚀  graduated from <a href="https://epicode.com/">EPICCODE </a> coding bootcamp 
   <hr/>
 <br/>
 <br/>
