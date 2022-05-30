@@ -11,7 +11,7 @@ I am a 22-year-old second-year university student pursuing a bachelor's degree i
 <br/>
 
 
-  <img width="200px" align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+  <img width="150px" align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
   
   <br/>
 
